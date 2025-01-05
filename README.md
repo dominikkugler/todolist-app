@@ -1,7 +1,7 @@
 # TodoList Fullstack Application
 
 ## Description
-A fullstack TodoList application built with React for the frontend, Spring Boot for the backend, and MySQL as the database. This application allows users to manage tasks effectively by providing features such as adding, editing, deleting, sorting, and searching tasks.
+A fullstack TodoList application built with React for the frontend, Spring Boot for the backend, and MySQL as the database. This application allows users to manage tasks effectively by providing features such as adding, editing, deleting, sorting, searching, and filtering tasks.
 
 ## Features
 - **Add Tasks**: Create new tasks with a name and description.
@@ -9,6 +9,7 @@ A fullstack TodoList application built with React for the frontend, Spring Boot 
 - **Delete Tasks**: Remove tasks from the list.
 - **Sort Tasks**: Unchecked tasks are displayed at the top, while completed tasks are listed at the bottom.
 - **Search Tasks**: Quickly find tasks by name using the search field.
+- **Filter Tasks**: Easily filter tasks to show all, completed, or incomplete tasks.
 
 ## Technologies Used
 - **Frontend**: React
@@ -67,6 +68,10 @@ The frontend will be available at `http://localhost:3000`.
 4. **Delete Tasks**: Click the delete icon next to a task to remove it.
 5. **Sort Tasks**: The tasks are automatically sorted based on their checked status.
 6. **Search Tasks**: Use the search bar at the top to find a task by name.
+7. **Filter Tasks**:
+   - Click the "All" button to view all tasks.
+   - Click the "Done" button to filter and view only completed tasks.
+   - Click the "Not done yet" button to filter and view only incomplete tasks.
 
 ## Contact
 Feel free to contact me for any questions or suggestions at dominikkugler0@icloud.com.
