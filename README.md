@@ -3,6 +3,8 @@
 ## Description
 A fullstack TodoList application built with React for the frontend, Spring Boot for the backend, and MySQL as the database. This application allows users to manage tasks effectively by providing features such as adding, editing, deleting, sorting, searching, and filtering tasks.
 
+![screen for readme](https://github.com/user-attachments/assets/87a5de3a-f910-4a93-b992-baa750bab766)
+
 ## Features
 - **Add Tasks**: Create new tasks with a name and description.
 - **Edit Tasks**: Modify existing tasks.
