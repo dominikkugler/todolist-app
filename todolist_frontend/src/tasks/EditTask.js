@@ -74,7 +74,7 @@ export default function EditTask() {
                         />
                     </div>
 
-                    <button type="submit" className='btn btn-primary'>Add task</button>
+                    <button type="submit" className='btn btn-primary'>Edit task</button>
                     <Link type="submit" className='btn btn-outline-danger mx-2' to="/">Cancel</Link>
                     </form>
                 </div>
