@@ -24,7 +24,6 @@ A fullstack TodoList application built with React for the frontend, Spring Boot 
 ### Prerequisites
 - Node.js and npm installed
 - Java Development Kit (JDK) installed
-- Apache Maven installed
 - XAMPP installed and running (for MySQL database)
 
 ### Database Setup
